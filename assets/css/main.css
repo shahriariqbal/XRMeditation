@@ -2621,7 +2621,8 @@ Default Tab Style
   }
 }
 .slider__shapes {
-  opacity: 0.27;
+  /* opacity: 0.27; */
+  opacity: 1;
 }
 .slider__shapes img {
   position: absolute;
