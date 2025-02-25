@@ -4812,7 +4812,8 @@ Default Tab Style
   display: block;
   font-family: var(--tg-heading-font-family);
   font-weight: var(--tg-fw-semi-bold);
-  font-size: 16px;
+  /* font-size: 16px; */
+  font-size: 13px;
   color: var(--tg-theme-primary);
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
